@@ -272,3 +272,10 @@ Allocation decisions were driven using:
 * Markov Attribution
 * Channel Role
 * Business Constraints
+
+---
+
+## Author
+
+Subhojit Mohanty — B.Tech Industrial Design Engineering, NIT Rourkela 
+Built for AI Palette's Product Strategy Taskforce challenge, E-Cell IIT Guwahati Summer Projects 2026
